@@ -17,6 +17,8 @@ CPAN 214 Lab5 implements a menu-driven Python application for managing student r
 
 [![Download Lab5](https://img.shields.io/badge/Download-Lab5Zip.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/CPAN214-Lab5/releases/download/v1/Lab5Zip.zip)
 
+[![Download Lab5](https://img.shields.io/badge/Download-Lab5Zip.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/CPAN214-Lab5/releases/download/v1/Lab5Zip.zip)
+
 *Complete Python project with Student Grades Management System ready to run*
 
 ## Important: Where your code lives
