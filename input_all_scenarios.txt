@@ -1,0 +1,52 @@
+1
+5
+2
+S001
+1
+5
+2
+S001
+2
+Math 101
+5
+2
+S001
+3
+5
+2
+S001
+4
+New Course
+95
+completed
+5
+2
+S999
+S001
+1
+5
+2
+S001
+4
+Test Course
+105
+90
+completed
+5
+2
+S001
+4
+Another Course
+90
+invalid
+ongoing
+5
+2
+S001
+4
+
+Test Course2
+90
+completed
+5
+3
